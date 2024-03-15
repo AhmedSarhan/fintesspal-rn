@@ -1,0 +1,5 @@
+configurationset:
+  - configuration:
+      name: "edamam"
+      app_id: 5f7b3ac0
+      app_key: ab3e2284372184c2a988190b9bf7a3ed
